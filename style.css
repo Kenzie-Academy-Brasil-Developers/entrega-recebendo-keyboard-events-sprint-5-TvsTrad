@@ -2,7 +2,12 @@
     width: 100px;
     height: 100px; 
     position: absolute; 
-    background: gray;
     left: 200px;
     top: 200px;
+    background-image: url("./Toad-whiteB.png");
+    background-repeat: no-repeat;
+    background-position: center;
     }
+body {
+    background-color:
+}
